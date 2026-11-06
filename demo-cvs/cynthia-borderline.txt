@@ -1,0 +1,19 @@
+Cynthia Eze
+Remote | cynthia.eze@example.com | github.com/cyn-eze
+
+Summary
+Backend developer with Python and Django experience. Took a 2-year career break for family reasons (2023-2025). Now returning to engineering.
+
+Skills
+Python, Django, REST APIs, PostgreSQL, git, Docker
+
+Projects
+- ShopLite API (2022): Django REST API for a small online store. Products, orders, payments stub. github.com/cyn-eze/shoplite
+- Portfolio site (2025): personal site built after refresher courses. Includes a blog API in Django.
+
+Education
+BSc Information Technology, Covenant University, 2019.
+
+Experience
+- Backend Developer, PayNest Ltd (2021-2023): built and maintained payment endpoints. Wrote integration tests.
+- Career break (2023-2025): family caregiving. Completed two online Python courses in 2025.

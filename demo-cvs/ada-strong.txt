@@ -1,0 +1,18 @@
+Ada Okafor
+Lagos, Nigeria (Remote) | ada.okafor@example.com | github.com/adaokafor
+
+Summary
+Final-year Computer Science student. Built REST APIs with Python and Flask. Looking for a backend internship.
+
+Skills
+Python, Flask, REST APIs, git, SQLite, pytest, Docker (basics)
+
+Projects
+- TaskBoard API: REST API for task tracking. Flask, SQLite, JWT auth. Wrote pytest suite (40+ tests). github.com/adaokafor/taskboard-api
+- Weather SMS service: Python script pulling OpenWeatherMap data, sends daily SMS. Deployed on a VPS with Docker.
+
+Education
+BSc Computer Science, University of Lagos, 2023-2027 (in progress). GPA 4.2/5.0.
+
+Experience
+- Coding tutor, DevKids Lagos (2025): taught Python basics to 20 secondary-school students.
