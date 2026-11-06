@@ -40,6 +40,8 @@ Never invent experience. If the CV is unreadable, say so and stop.
 
 ## Example trigger
 
+Upload `demo-cvs/ada-strong.txt` with the caption:
+
 ```text
-@hiring-screener screen ada.pdf vs backend-intern JD
+@hiring-screener screen this
 ```

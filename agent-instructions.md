@@ -39,9 +39,9 @@ Reject if: no code evidence (no GitHub, no project, no coursework repo)
 
 ## Demo CVs to create
 
-1. `ada-strong.txt` - Python + API project + GitHub link → should PASS + CLEAR
-2. `ben-weak.txt` - no code, sales background → should REJECT at screener
-3. `cynthia-borderline.txt` - good skills but 2-year gap → should PASS then get FLAGGED or discussed
+1. `demo-cvs/ada-strong.txt` - Python + API project + GitHub link → should PASS + CLEAR
+2. `demo-cvs/ben-weak.txt` - no code, sales background → should REJECT at screener
+3. `demo-cvs/cynthia-borderline.txt` - good skills but 2-year gap → should PASS then get FLAGGED or discussed
 
 ## Template sketch (for README later)
 
