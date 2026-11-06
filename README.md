@@ -47,7 +47,7 @@ The Cynthia run is the highlight: the gap was excluded from scoring twice
 (once by the screener, once by the audit), and the pack tells the interviewer
 not to ask about it.
 
-Demo video: https://youtu.be/AvHYJfYuya8 (~100 sec walkthrough).
+Demo video: https://youtu.be/AvHYJfYuya8 
 
 ## Repo contents
 
