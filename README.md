@@ -56,8 +56,6 @@ Demo video: https://youtu.be/AvHYJfYuya8 (~100 sec walkthrough).
 - `agents/hiring-interviewer.md` - Agent 3 prompt.
 - `agent-instructions.md` - chain index, room setup, kickoff message, JD.
 - `demo-cvs/` - `ada-strong.txt`, `ben-weak.txt`, `cynthia-borderline.txt`.
-- `demo-script.rtf` - narrated video script.
-- `progress.md` - build log.
 
 ## Reproduce it
 
