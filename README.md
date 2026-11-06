@@ -61,6 +61,7 @@ Demo video: https://youtu.be/AvHYJfYuya8
 - `agent-instructions.md` - chain index, room setup, kickoff message, JD.
 - `demo-cvs/` - `ada-strong.txt`, `ben-weak.txt`, `cynthia-borderline.txt`.
 - `assets/` - `list-documents.png`, `hiring-room-config.png`.
+- `LICENSE` - MIT license.
 
 ## Reproduce it
 
@@ -97,3 +98,7 @@ room:
   name: "hiring-room"
   agents: ["hiring-screener", "hiring-bias-checker", "hiring-interviewer"]
 ```
+
+## License
+
+MIT. See `LICENSE`.
