@@ -35,6 +35,8 @@ decisions where the team can find them. Concretely, this project uses:
   (see `!list-documents`).
 - Humans and agents as equal room members. The manager approves in-thread.
 
+![hiring-room configuration: Mattermost bridge, shared instructions, 4 agents and 2 people](assets/hiring-room-config.png)
+
 ## Real runs (Mattermost, Claude Code provider)
 
 | CV | Screener | Bias audit | Outcome |
@@ -47,6 +49,8 @@ The Cynthia run is the highlight: the gap was excluded from scoring twice
 (once by the screener, once by the audit), and the pack tells the interviewer
 not to ask about it.
 
+![Room documents in the hiring-room thread: interview packs and decisions](assets/list-documents.png)
+
 Demo video: https://youtu.be/AvHYJfYuya8 
 
 ## Repo contents
@@ -56,6 +60,7 @@ Demo video: https://youtu.be/AvHYJfYuya8
 - `agents/hiring-interviewer.md` - Agent 3 prompt.
 - `agent-instructions.md` - chain index, room setup, kickoff message, JD.
 - `demo-cvs/` - `ada-strong.txt`, `ben-weak.txt`, `cynthia-borderline.txt`.
+- `assets/` - `list-documents.png`, `hiring-room-config.png`.
 
 ## Reproduce it
 
